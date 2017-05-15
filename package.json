@@ -1,0 +1,11 @@
+{
+  "name": "neural-networks-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kyle Shevlin",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "synaptic": "^1.0.10"
+  }
+}
